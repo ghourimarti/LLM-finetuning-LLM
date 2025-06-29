@@ -1,1 +1,5 @@
-
+# Ignore all files in these folders
+fine-tuning/
+outputs/
+results/
+.ipynb_checkpoints/
